@@ -1,4 +1,2 @@
-- 👋 Oi, me chamo Vini
-- 🌱 Atualmente sou estudante de Ciência da Computação pela UFPEL
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Oi, me chamo Vinicius
+-  Atualmente sou estudante de Ciência da Computação pela UFPEL
