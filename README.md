@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://github.com/ViniHallmann/ProceduralPolygonAnimation/raw/main/PolygonAnimation-VinciusHallmann.gif" alt="INTRO" />
+  <a href="https://github.com/ViniHallmann/ProceduralPolygonAnimation">
+    <img src="https://github.com/ViniHallmann/ProceduralPolygonAnimation/raw/main/PolygonAnimation-VinciusHallmann.gif" alt="INTRO" title="Clique para ver o repositório do projeto!" />
+  </a>
   
   <br>
   
