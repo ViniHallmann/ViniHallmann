@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/ViniHallmann/ProceduralPolygonAnimation">
-    <img src="https://github.com/ViniHallmann/ProceduralPolygonAnimation/blob/main/assets/GITHUB_BACKGROUND_COLOR_PolygonAnimation-ViniciusHallmann.gif" alt="INTRO" title="Clique para ver o repositório do projeto!" style="width: 100%;" />
+    <img src="https://github.com/ViniHallmann/ProceduralPolygonAnimation/blob/main/assets/result4.gif" alt="INTRO" title="Clique para ver o repositório do projeto!" style="width: 100%;" />
   </a>
   
   <br>
